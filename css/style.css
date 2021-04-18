@@ -89,3 +89,15 @@ font-size: 1.5rem;
     width:auto;/*maintain aspect ratio*/
     max-width:80px;
 }
+
+.box{
+text-align: center;
+}
+
+.icon{
+color: black;
+}
+
+.icon:hover{
+  color: #ff8303;
+}
