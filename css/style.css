@@ -118,7 +118,7 @@ color: black;
 }
 
 .profil-photo{
-  height: 500px;
+  height: 300px;
   width: auto;
   margin-top: -10px;
   border: 3px solid black;
@@ -141,5 +141,5 @@ color: black;
 }
 
 .carousel-item{
- height: 550px;
+ height: 350px;
 }
