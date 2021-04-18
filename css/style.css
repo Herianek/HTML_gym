@@ -1,7 +1,7 @@
 #title{
   background-color: #eeb76b;
-  color: #grey;
   padding-top: 60px;
+  text-align: center;
 }
 
 #middle-title{
@@ -33,7 +33,7 @@ h3{
   text-align: center;
   margin-top: 15px;
 }
-p{
+.midlle-p{
   font-family: 'Heebo', sans-serif;
   text-align: center;
   color: white;
@@ -43,11 +43,8 @@ p{
   padding: 3% 15%;
 }
 
-img{
+.img_title{
   padding-top: 30px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
   max-width: 100%;
   height: auto;
 }
@@ -100,4 +97,49 @@ color: black;
 
 .icon:hover{
   color: #ff8303;
+}
+
+/* switch sekce */
+
+#switch-title{
+  padding: 2% 15%;
+  background-color: #eeb76b;
+  text-align: center;
+}
+
+.switch-p{
+  font-family: 'Heebo', sans-serif;
+  color: white;
+  margin-top: 15px;
+}
+
+.switch-h3{
+  font-size: 2.5rem;
+}
+
+.profil-photo{
+  height: 500px;
+  width: auto;
+  margin-top: -10px;
+  border: 3px solid black;
+}
+
+#press{
+  text-align: center;
+  background-color: #eeb76b;
+  padding-bottom: 1%;
+}
+
+.reklama-photo{
+  width: auto;
+  height: 120px;
+  margin: 0px 10px;
+}
+
+.profil_h3{
+  color : #eeb76b;
+}
+
+.carousel-item{
+ height: 550px;
 }
