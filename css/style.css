@@ -1,0 +1,91 @@
+#title{
+  background-color: #eeb76b;
+  color: #grey;
+  padding-top: 60px;
+}
+
+#middle-title{
+  background-color: #424642;
+  color: #eeb76b;
+  padding-bottom: 30px;
+}
+/* jenom výplň */
+
+.vypln{
+  height: 50px;
+  width: 100%;
+  background-color: #424642;
+}
+
+body{
+  font-family: "Montserrat";
+}
+
+h1{
+  font-family: "Montserrat";
+  text-align: center;
+  margin: 10% 0 10% 0;
+  font-size: 3rem;
+}
+
+h3{
+  font-family: 'Bevan';
+  text-align: center;
+  margin-top: 15px;
+}
+p{
+  font-family: 'Heebo', sans-serif;
+  text-align: center;
+  color: white;
+}
+
+.container-fluid{
+  padding: 3% 15%;
+}
+
+img{
+  padding-top: 30px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+  height: auto;
+}
+
+/* navigation bar */
+
+.navbar-brand{
+font-family: 'Dela Gothic One', cursive;
+font-size: 1.5rem;
+}
+
+.nav-item{
+  padding: 0 14px;
+}
+
+.nav-link{
+  font-size: 1.2rem;
+  color: #eeb76b;
+}
+
+/* Download Buttons */
+
+.download-button{
+  margin: 0% 3% 5% 0;
+}
+
+/* images */
+
+.title-img2{
+  transform: rotate(-10deg);
+}
+
+.title-img{
+  transform: rotate(10deg);
+}
+
+.little-images{
+    height:80px
+    width:auto;/*maintain aspect ratio*/
+    max-width:80px;
+}
