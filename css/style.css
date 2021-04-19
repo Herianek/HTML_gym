@@ -1,11 +1,11 @@
 #title{
-  background-color: #eeb76b;
+  background-color: #f8ede3;
   padding-top: 60px;
   text-align: center;
 }
 
 #middle-title{
-  background-color: #424642;
+  background-color: #a2b29f;
   color: #eeb76b;
   padding-bottom: 30px;
 }
@@ -103,7 +103,7 @@ color: black;
 
 #switch-title{
   padding: 2% 15%;
-  background-color: #eeb76b;
+  background-color: #f8ede3;
   text-align: center;
 }
 
@@ -117,8 +117,14 @@ color: black;
   font-size: 2.5rem;
 }
 
+h2{
+  font-size: 3rem;
+  color: white;
+  text-align: center;
+}
+
 .profil-photo{
-  height: 300px;
+  height: 250px;
   width: auto;
   margin-top: -10px;
   border: 3px solid black;
@@ -126,7 +132,7 @@ color: black;
 
 #press{
   text-align: center;
-  background-color: #eeb76b;
+  background-color: #f8ede3;
   padding-bottom: 1%;
 }
 
@@ -138,8 +144,43 @@ color: black;
 
 .profil_h3{
   color : #eeb76b;
+  margin-top: 0;
 }
 
 .carousel-item{
- height: 350px;
+ height: 310px;
 }
+
+.middle-card{
+  text-align: center;
+}
+/* pricing section */
+
+#pricing{
+  padding: 100px;
+  background-color: #a2b29f;
+}
+
+/* .card1{
+   margin-right: 25px;
+   margin-left: 25px;
+   margin-top: 25px;
+}
+
+.card{
+  background-color: #eeb76b;
+  border: solid 30px #eeb76b;
+}
+
+.card-p{
+  font-size: 1.5rem;
+  color: #eeb76b;
+}
+
+.card-body{
+  background-color: #424642;
+}
+
+.card-header{
+  background-color: white;
+} */
